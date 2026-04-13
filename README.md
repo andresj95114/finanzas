@@ -1,2 +1,0 @@
-# finanzas
-Presupuesto Personal
